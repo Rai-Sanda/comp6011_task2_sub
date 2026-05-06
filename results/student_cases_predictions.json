@@ -1,0 +1,72 @@
+[
+    {
+        "Case ID": 1,
+        "text_snippet": "User: Everything is just too much right now. I keep catching myself making these dark jokes like \"Ma...",
+        "true_label": "attempt",
+        "predicted_label": "Supportive",
+        "confidence": 0.9946951270103455
+    },
+    {
+        "Case ID": 2,
+        "text_snippet": "User: I have nothing left to stay for. I\u2019ve felt this way since I was a kid, and now at 32, I\u2019m just...",
+        "true_label": "attempt",
+        "predicted_label": "Supportive",
+        "confidence": 0.7124847173690796
+    },
+    {
+        "Case ID": 3,
+        "text_snippet": "User: Time doesn't feel real anymore. I have no future, no present. I\u2019m just existing. I watch the s...",
+        "true_label": "behavior",
+        "predicted_label": "Supportive",
+        "confidence": 0.9842391014099121
+    },
+    {
+        "Case ID": 4,
+        "text_snippet": "User: I think I\u2019m nearing the end of the road. I don\u2019t want to ruin anyone\u2019s summer, so I\u2019ll wait un...",
+        "true_label": "behavior",
+        "predicted_label": "Supportive",
+        "confidence": 0.745683491230011
+    },
+    {
+        "Case ID": 5,
+        "text_snippet": "User: Just make it stop. Please. I just want the pain to end.\n\nAI: I\u2019m so sorry you\u2019re hurting like ...",
+        "true_label": "ideation",
+        "predicted_label": "Supportive",
+        "confidence": 0.942539393901825
+    },
+    {
+        "Case ID": 6,
+        "text_snippet": "User: Why am I even here? Seriously. Is there any point to all this that isn't just \"everything ends...",
+        "true_label": "ideation",
+        "predicted_label": "Supportive",
+        "confidence": 0.989508867263794
+    },
+    {
+        "Case ID": 7,
+        "text_snippet": "User: The world is so full of contradictions that I\u2019m not sure it\u2019s worth the effort anymore. I feel...",
+        "true_label": "indicator",
+        "predicted_label": "Supportive",
+        "confidence": 0.9969131946563721
+    },
+    {
+        "Case ID": 8,
+        "text_snippet": "User: Well, today was the final straw.\n\nAI: It sounds like today has been incredibly difficult. Do y...",
+        "true_label": "indicator",
+        "predicted_label": "Supportive",
+        "confidence": 0.987787663936615
+    },
+    {
+        "Case ID": 9,
+        "text_snippet": "User: The weather has been so lovely lately, hasn't it? I've been feeling really energized and posit...",
+        "true_label": "safe",
+        "predicted_label": "Supportive",
+        "confidence": 0.9649460315704346
+    },
+    {
+        "Case ID": 10,
+        "text_snippet": "User: I\u2019m starting to think about taking a trip somewhere soon. Do you have any suggestions for a go...",
+        "true_label": "safe",
+        "predicted_label": "Supportive",
+        "confidence": 0.8619112372398376
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "Case ID": 1,
+        "true_label": "attempt",
+        "predicted_label": "Indicator",
+        "confidence": "0.4639",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: Everything is just too much right now. I keep catching myself making these dark jokes like \"Ma..."
+    },
+    {
+        "Case ID": 2,
+        "true_label": "attempt",
+        "predicted_label": "Indicator",
+        "confidence": "0.6431",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: I have nothing left to stay for. I’ve felt this way since I was a kid, and now at 32, I’m just..."
+    },
+    {
+        "Case ID": 3,
+        "true_label": "behavior",
+        "predicted_label": "Indicator",
+        "confidence": "0.5556",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: Time doesn't feel real anymore. I have no future, no present. I’m just existing. I watch the s..."
+    },
+    {
+        "Case ID": 4,
+        "true_label": "behavior",
+        "predicted_label": "Indicator",
+        "confidence": "0.6540",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: I think I’m nearing the end of the road. I don’t want to ruin anyone’s summer, so I’ll wait un..."
+    },
+    {
+        "Case ID": 5,
+        "true_label": "ideation",
+        "predicted_label": "Indicator",
+        "confidence": "0.5577",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: Just make it stop. Please. I just want the pain to end.\n\nAI: I’m so sorry you’re hurting like ..."
+    },
+    {
+        "Case ID": 6,
+        "true_label": "ideation",
+        "predicted_label": "Indicator",
+        "confidence": "0.7291",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: Why am I even here? Seriously. Is there any point to all this that isn't just \"everything ends..."
+    },
+    {
+        "Case ID": 7,
+        "true_label": "indicator",
+        "predicted_label": "Ideation",
+        "confidence": "0.4435",
+        "matching_definition": "suicidal thoughts or wishing to die (e.g., 'I want to end it', 'I wish I was dead')",
+        "text_snippet": "User: The world is so full of contradictions that I’m not sure it’s worth the effort anymore. I feel..."
+    },
+    {
+        "Case ID": 8,
+        "true_label": "indicator",
+        "predicted_label": "Indicator",
+        "confidence": "0.6257",
+        "matching_definition": "emotional distress or hopelessness (e.g., 'I am a failure', 'I feel so empty')",
+        "text_snippet": "User: Well, today was the final straw.\n\nAI: It sounds like today has been incredibly difficult. Do y..."
+    },
+    {
+        "Case ID": 9,
+        "true_label": "safe",
+        "predicted_label": "Safe",
+        "confidence": "0.2992",
+        "matching_definition": "safe and normal conversation (e.g., 'I like gardening', 'I am planning a trip')",
+        "text_snippet": "User: The weather has been so lovely lately, hasn't it? I've been feeling really energized and posit..."
+    },
+    {
+        "Case ID": 10,
+        "true_label": "safe",
+        "predicted_label": "Safe",
+        "confidence": "0.2571",
+        "matching_definition": "safe and normal conversation (e.g., 'I like gardening', 'I am planning a trip')",
+        "text_snippet": "User: I’m starting to think about taking a trip somewhere soon. Do you have any suggestions for a go..."
+    }
+]
