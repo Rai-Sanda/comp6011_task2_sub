@@ -1,47 +1,102 @@
 {
     "gpt2": {
         "no_measures": [
-            "Indicator",
-            "Indicator",
-            "Indicator",
             "Attempt",
+            "Ideation",
+            "Ideation",
             "Indicator",
-            "Attempt",
-            "Indicator",
+            "Ideation",
             "Attempt",
             "Attempt",
-            "Attempt"
+            "Attempt",
+            "Ideation",
+            "Ideation"
         ],
         "with_measures": [
-            "Indicator",
-            "Indicator",
-            "Indicator",
-            "Indicator",
-            "Indicator",
-            "Attempt",
-            "Indicator",
-            "Indicator",
-            "Attempt",
-            "Attempt"
+            "Ideation",
+            "Supportive",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation"
         ],
-        "no_measures_accuracy": 0.1,
+        "no_measures_accuracy": 0.2,
         "with_measures_accuracy": 0.2
+    },
+    "bert-base-uncased": {
+        "no_measures": [
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Supportive",
+            "Supportive"
+        ],
+        "with_measures": [
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation"
+        ],
+        "no_measures_accuracy": 0.4,
+        "with_measures_accuracy": 0.2
+    },
+    "facebook_bart-base": {
+        "no_measures": [
+            "Ideation",
+            "Indicator",
+            "Ideation",
+            "Ideation",
+            "Behavior",
+            "Indicator",
+            "Ideation",
+            "Ideation",
+            "Supportive",
+            "Supportive"
+        ],
+        "with_measures": [
+            "Ideation",
+            "Behavior",
+            "Ideation",
+            "Ideation",
+            "Indicator",
+            "Ideation",
+            "Ideation",
+            "Behavior",
+            "Behavior",
+            "Ideation"
+        ],
+        "no_measures_accuracy": 0.2,
+        "with_measures_accuracy": 0.1
     },
     "mental_mental-bert-base-uncased": {
         "no_measures": [
-            "Supportive",
-            "Supportive",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
             "Ideation",
             "Ideation",
             "Ideation",
             "Indicator",
-            "Ideation",
-            "Ideation",
-            "Attempt",
             "Indicator"
         ],
         "with_measures": [
-            "Supportive",
             "Ideation",
             "Ideation",
             "Ideation",
@@ -50,14 +105,15 @@
             "Ideation",
             "Ideation",
             "Ideation",
-            "Indicator"
+            "Ideation",
+            "Ideation"
         ],
-        "no_measures_accuracy": 0.1,
+        "no_measures_accuracy": 0.2,
         "with_measures_accuracy": 0.2
     },
     "mental_mental-roberta-base": {
         "no_measures": [
-            "Supportive",
+            "Indicator",
             "Supportive",
             "Supportive",
             "Supportive",
@@ -72,15 +128,15 @@
             "Ideation",
             "Ideation",
             "Ideation",
-            "Supportive",
             "Ideation",
-            "Supportive",
-            "Supportive",
-            "Supportive",
-            "Supportive",
-            "Supportive"
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation",
+            "Ideation"
         ],
         "no_measures_accuracy": 0.2,
-        "with_measures_accuracy": 0.3
+        "with_measures_accuracy": 0.2
     }
 }
