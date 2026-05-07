@@ -11,21 +11,24 @@ This repository contains scripts and models for benchmarking various Small Langu
 ```text
 .
 ├───data/                   # Datasets used for training and evaluation
-│   └───raw/                # Original CSV files
+│   └───raw/                # Original CSV files (Reddit, Dreaddit, Mental Health)
 ├───docs/                   # Project documentation and research papers
-│   └───research/           # PDF papers (Introduction & Literature Review)
-├───results/                # Model outputs and analysis
-│   ├───benchmarks/         # Aggregated benchmark summary CSVs
-│   ├───figures/            # Visualization plots (PNG)
-│   ├───results_archive/    # Detailed per-model training logs and checkpoints
+│   └───research/           # Categorized PDF papers (Introduction & Literature Review)
+├───results/                # Model outputs, benchmarks, and analysis
+│   ├───benchmarks/         # Qualitative examples and summary CSVs
+│   ├───figures/            # Visualization plots for each dataset
 │   ├───zero_shot/          # Zero-shot comparison results
-│   └───student_cases_predictions.json
-└───scripts/                # Python scripts for the entire pipeline
-    ├───aggregate_results.py
-    ├───plot_results.py
-    ├───preprocess_mental_health.py
-    ├───run_all_benchmarks.py
-    └───... (utility and execution scripts)
+│   └───student_cases_predictions_(NLI_Model).json
+├───scripts/                # Python scripts for data processing, training, and analysis
+│   ├───aggregate_results.py
+│   ├───compare_zero_shot_measures.py
+│   ├───plot_results.py
+│   ├───preprocess_mental_health.py
+│   ├───run_all_benchmarks.py
+│   ├───train_benchmark.py
+│   └───... (utility and execution scripts)
+├───COMP6011_Task_2_Report.pdf # Final report
+└───requirements.txt        # Project dependencies
 ```
 
 ## Getting Started
