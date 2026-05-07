@@ -6,3 +6,5 @@ numpy
 datasets
 accelerate
 codecarbon
+matplotlib
+seaborn

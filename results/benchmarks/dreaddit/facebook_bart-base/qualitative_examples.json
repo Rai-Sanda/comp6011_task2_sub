@@ -1,0 +1,27 @@
+[
+    {
+        "text": "He was my best buddy in high school and we\u2019re still really close. And my girlfriend, who goes to school in DC, is home too so I can see her. I\u2019m grateful for them but wish I had a bigger friend group from home that I was still close to. I\u2019ve loved college, but haven\u2019t really found a new best friend yet. I\u2019ve still kinda struggled with feeling like an outsider and not really fitting in.",
+        "true_label": 0,
+        "predicted_label": 0
+    },
+    {
+        "text": "-when talking to someone i get out of breath easily while talking (newest one) -can't sit properly, I have to sit in a weird position or else its really uncomfortable -easily startled (for example, im sitting in my room, watching youtube and all of a sudden someone opens the door and I get startled) in general im really not a easy to scare person, but this is ridicilous.. Im wondering if I can get rid of these symptoms, if its possible, sometimes I think that im neck deep in this anxiety that there is no way back to 100% normal... but then again sometimes I tell myself everything will be good again. So yea, some tips ,similar experiences / symptoms / if and how did you get rid of them are gladly appreciated:) Thanks !",
+        "true_label": 1,
+        "predicted_label": 1
+    },
+    {
+        "text": "Just wanted to share with you all -  yesterday I flew to Germany from England for a full day work meeting today. I am now waiting at the gate to fly home. 9 weeks ago I had a panic attack thinking about traveling across England on the train to see my sister for Christmas (my amazing boyfriend drove me over and then came to pick me up! ). A mix of medication and therapy has helped me so much.",
+        "true_label": 0,
+        "predicted_label": 0
+    },
+    {
+        "text": "I regret signing up for class especially this  math class. I feel so pathetic I may drop out again. im so anxious in class, it is so long about 6 hours since it supposed to be help special type of class to pass a placement test since I failed that. I halfway made it to my second week. I cant take it anymore.",
+        "true_label": 1,
+        "predicted_label": 1
+    },
+    {
+        "text": "Picture the following scenario. You get to the point of high school with all your elementary school friends, you are in a class separate from nearly all of them. You are 'very' good friends with 2 of them, and at the beginning of the semester you are always with them. Being friends for years, the three of you are a narrow circle of good friends who are always together. As you get acquainted to classmates and meet new people, you slowly get caught in the thought of wanting to spend more time with these new people you've grown accustomed to, and cut off ties with your old buddies, because you feel like you've got a bit tired of them.",
+        "true_label": 0,
+        "predicted_label": 0
+    }
+]
